@@ -4,18 +4,18 @@
 
 -CAPTURA REGISTRO WEB APP.
 
-![alt text](registroWEB.png)
+![alt text](img/registroWEB.png)
 
     -Explicación: Aqui mostramos un formulario sencillo para crear un nuevo usuario.
 
 
     -CAPTURA LOGIN.
 
-![alt text](login.png)
+![alt text](img/login.png)
 
     -CAPTURA APP WEB(BASE BETA)
 
-![alt text](app.png)
+![alt text](img/app.png)
 
     -Explicación: Como podemos ver el funcionamiento es sencillo, una vez que el usuario pase la targeta por el aparato detectará que esa targeta esta asociada
     a un codigo de trabajador/estudiante, se le abrirá la web que veis en la imagen, podrá fichar su entrada, fichar el tiempo de descanso y cuando vuelva del tiempo
