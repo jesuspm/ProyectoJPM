@@ -1,6 +1,6 @@
 # ProyectoJPM - DAW
 
-### SPRINT 1 - Crear wireframe d’aplicació web (FIGMA)
+### [FIGMA] Wireframe d’aplicació web
 
 -CAPTURA REGISTRO WEB APP.
 
@@ -15,12 +15,10 @@
 
     -CAPTURA APP WEB(BASE BETA)
 
-![alt text](img/app.png)
+![alt text](img/app2.png)
 
     -Explicación: Como podemos ver el funcionamiento es sencillo, una vez que el usuario pase la targeta por el aparato detectará que esa targeta esta asociada
-    a un codigo de trabajador/estudiante, se le abrirá la web que veis en la imagen, podrá fichar su entrada, fichar el tiempo de descanso y cuando vuelva del tiempo
-    del descanso volverá a fichar la entrada y cuando finalice su jornada lo mismo, todo esto quedará registrado en la base de datos, cada uno de los movimiento que se hagan,
-    ya sea entrada, descanso o salida.
+    a un codigo de trabajador/estudiante, se le abrirá la web que veis en la imagen, podrá fichar su entrada dandole al botón verder, cuando finalice su jornada lo mismo tendrá que darle al boton rojo, todo esto quedará registrado en la base de datos, cada uno de los movimiento que se hagan, ya sea entrada o salida.
 
     -El submenú que se ve arriba a la derecha podremos ver que tiene diferentes apartados, uno de ellos es APP que es basicamente lo que hemos visto en la anterior captura,
     Fichajes tengo pensado en poner un listado(solicitado desde una BDD) donde muestre todos y cada una de las personas que han fichado en el turno de trabajo.
@@ -30,15 +28,6 @@
     -Los retrasos serán un listado con cada una de las personas que fichen tarde la hora de entrada.
 
     -Evidentemente esto es una BETA, ya que las librerias de FIGMA limitan un poco a la hora de crear apartados.
-
-### SPRINT 2 - Crear wireframe d’alta qualitat (figma) i guia d’estils.
-
-> [!IMPORTANT]
-> Cambios realizados en el apartado APP.
-
-![alt text](img/appNew.png)
-
-    - Explicación: Tras darle un par de vueltas hemos visto que no es para nada optimo implementar la opción del descanso ya que nos complicaría mucho la logica de nuestra APP al comenzamiento, es algo que lo tenemos presente, y que en cualquier punto del proyecto seguramente lo implementemos, pero de momento creemos que lo mejor es dejarlo para mas hacia adelante.
 
 ### Apartado: Empleados
 
@@ -77,3 +66,5 @@
 ![alt text](img/horariosAlumnos.png)
 
     -Explicación: Aqui hemos replicado exactamente(de momento) el mismo patrón que con los empleados hasta que tengamos una idea clara de como quedará a nivel de diseño y funcional este apartado.
+
+### [App] Java X Amazon Web Service.
